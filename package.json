@@ -1,8 +1,12 @@
 {
   "name": "toolkit-wechat-format",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "index.js",
+   "repository": {
+    "type": "git",
+    "url": "git@github.com:app-toolkit/wechat-format.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
